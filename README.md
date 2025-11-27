@@ -36,6 +36,13 @@
 ✔ Python + HTML + CSS  
 ✔ Accurate predictions  
 
+### 🌐Movie Data Analysis & Visualization using Python
+✔ Data cleaning
+✔ Exploratory Data Analysis (EDA)
+✔ Data visualization
+✔ Insights extracted from real metrics (IMDb, Rotten Tomatoes, Revenues)
+✔ Statistical correlation
+
 ### 📊 Dashboard Projects
 ✔ Power BI Dashboards  
 ✔ Tableau Dashboards  
