@@ -31,7 +31,7 @@
 ---
 
 ## 💼 Projects
-### 🌐 Turisom Management System
+### 🌐 Tourism Management System
  ✔ Clean UI  
 ✔ Python + HTML + CSS  
 ✔ Accurate predictions  
