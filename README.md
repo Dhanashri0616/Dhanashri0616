@@ -31,9 +31,8 @@
 ---
 
 ## 💼 Projects
-### 🌐 Diabetes Detection Website
-✔ Machine Learning Model  
-✔ Clean UI  
+### 🌐 Turisom Management System
+ ✔ Clean UI  
 ✔ Python + HTML + CSS  
 ✔ Accurate predictions  
 
@@ -41,6 +40,7 @@
 ✔ Power BI Dashboards  
 ✔ Tableau Dashboards  
 ✔ Clean design + filters + charts  
+
 
 ---
 
@@ -54,11 +54,11 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/dhanashri-shete-aa7186354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="https://github.com/Rutuja1929" target="_blank">
+  <a href="https://github.com/Dhanashri0616" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
   </a>
 </p>
