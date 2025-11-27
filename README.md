@@ -46,8 +46,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanashri0616&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanashri0616&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanashri0616 &show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanashri0616 &theme=radical" width="48%">
 </p>
 
 ---
