@@ -35,17 +35,20 @@
  ✔ Clean UI  
 ✔ Python + HTML + CSS  
 ✔ Accurate predictions  
+
 ### 🌐Movie Data Analysis & Visualization using Python
- ✔ Data cleaning
-✔ Exploratory Data Analysis (EDA)
-✔ Data visualization
-✔ Insights extracted from real metrics (IMDb, Rotten Tomatoes, Revenues)
-✔ Statistical correlation
+✔ Data cleaning 
+✔ Exploratory Data Analysis (EDA) 
+✔ Data visualization 
+✔ Insights extracted from real metrics (IMDb, Rotten Tomatoes, Revenues) 
+✔ Statistical correlation 
+
 ### 🌐SQL EDA Project — Classic Models Database
-✔ SQL Queries
-✔ EDA Notes
-✔ Business Insights
-✔ Stored Procedures
+✔ SQL Queries 
+✔ EDA Notes 
+✔ Business Insights 
+✔ Stored Procedures 
+
 ### 📊 Dashboard Projects
 ✔ Power BI Dashboards  
 ✔ Tableau Dashboards  
