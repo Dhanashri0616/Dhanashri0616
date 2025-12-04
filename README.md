@@ -43,6 +43,12 @@
 ✔ Insights extracted from real metrics (IMDb, Rotten Tomatoes, Revenues)
 ✔ Statistical correlation
 
+### 🌐SQL EDA Project — Classic Models Database
+✔ SQL Queries
+✔ EDA Notes
+✔ Business Insights
+✔ Stored Procedures
+
 ### 📊 Dashboard Projects
 ✔ Power BI Dashboards  
 ✔ Tableau Dashboards  
@@ -53,8 +59,11 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanashri0616&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanashri0616&theme=radical" width="48%">
+  <!-- Working GitHub Stats -->
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Dhanashri0616&show_icons=true&theme=radical&cache_seconds=7200" width="48%">
+  
+  <!-- Working Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Dhanashri0616&theme=radical" width="48%">
 </p>
 
 ---
