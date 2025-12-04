@@ -44,10 +44,10 @@
 ✔ Statistical correlation    
 
 ### 🌐SQL EDA Project — Classic Models Database
-✔ SQL Queries 
-✔ EDA Notes 
-✔ Business Insights 
-✔ Stored Procedures 
+✔ SQL Queries   
+✔ EDA Notes   
+✔ Business Insights   
+✔ Stored Procedures   
 
 ### 📊 Dashboard Projects
 ✔ Power BI Dashboards  
