@@ -1,9 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Hi%20there-👋-FF69B4?style=for-the-badge&logo=github" />
-</p>
-
-<h1 align="center">✨ I'm Dhanashri Shete 👩‍💻✨</h1>
+<!-- Header -->
+<h1 align="center">✨ Hii, I'm Dhanashri shete 👩‍💻✨</h1>
 <h3 align="center">🚀 Data Scientist | Python Developer | Dashboard Creator</h3>
 
 <p align="center">
@@ -13,73 +9,69 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Working on a **Diabetes Detection Web Project (Machine Learning-based)**
-- 📊 Creating insightful **Power BI & Tableau Dashboards**
-- 🐍 Strong foundation in **Python & SQL**
-- 🧠 Passionate about **Machine Learning, Analytics & Data Visualization**
-- 🌱 Learning **Advanced Python | SQL Joins | Business Analytics**
-- 💬 Ask me about **SQL, Python, Data Analysis & ML basics**
+- 🔭 Working on Diabetes Detection Web Project
+- 📊 Creating beautiful Power BI & Tableau Dashboards
+- 🐍 Strong in Python & SQL
+- 🧠 Passionate about Machine Learning & Data Visualization
+- 🌱 Learning Advanced Python | SQL Joins | Analytics
+- 💬 Ask me about SQL, Python, ML, Data Science
 
 ---
 
 ## 🚀 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-006699?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8E44AD?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
 ## 💼 Projects
-
 ### 🌐 Tourism Management System
-- Built using **Python, HTML & CSS**
-- Clean and responsive UI
-- Predictive logic for better decision-making
+ ✔ Clean UI  
+✔ Python + HTML + CSS  
+✔ Accurate predictions  
 
-### 🎬 Movie Data Analysis & Visualization (Python)
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Data visualization and trend analysis
-- Insights from IMDb, Rotten Tomatoes & Revenue
-- Statistical correlation analysis
+### 🌐Movie Data Analysis & Visualization using Python
+✔ Data cleaning   
+✔ Exploratory Data Analysis (EDA)    
+✔ Data visualization    
+✔ Insights extracted from real metrics (IMDb, Rotten Tomatoes, Revenues)    
+✔ Statistical correlation    
 
-### 🗄 SQL EDA Project — Classic Models Database
-- Complex SQL queries
-- Business-focused insights
-- Stored procedures for automation and reporting
+### 🌐SQL EDA Project — Classic Models Database
+✔ SQL Queries   
+✔ EDA Notes   
+✔ Business Insights   
+✔ Stored Procedures   
+
+### 📊 Dashboard Projects
+🏥 Hospital Visits Performance Dashboard | Power BI
+
+✔ KPIs for revenue, patients, and visits    
+✔ Department-wise and diagnosis-based analysis      
+✔ Monthly and yearly trend analysis      
+✔ Gender and demographic insights      
+
+🎵 Spotify Music Analytics Dashboard | Power BI      
+
+✔ Artist, song, and album-level analysis      
+✔ Popularity trends by month, year, and quarter      
+✔ Explicit vs non-explicit song insights      
+✔ Interactive filters with Spotify-inspired UI      
+
+📊 Sales & Order Performance Dashboard | Tableau      
+
+✔ Sales, orders, returns, and customer KPIs          
+✔ Profitability metrics (GPM, OPM, ROA, ROE)      
+✔ Segment-wise performance analysis      
+✔ Cost breakdown and trend insights      
 
 ---
-
-## 📊 Dashboard Projects
-
-### 🏥 Hospital Visits Performance Dashboard | Power BI
-- Revenue, patient & visit KPIs
-- Department-wise and diagnosis-based analysis
-- Monthly and yearly trends
-- Gender and demographic insights
-
-### 🎵 Spotify Music Analytics Dashboard | Power BI
-- Artist, song & album-level analysis
-- Popularity trends by month, quarter & year
-- Explicit vs non-explicit insights
-- Interactive filters with a Spotify-inspired UI
-
-### 📈 Sales & Order Performance Dashboard | Tableau
-- Sales, orders, returns & customer KPIs
-- Profitability metrics (GPM, OPM, ROA, ROE)
-- Segment-wise performance analysis
-- Cost breakdown and trend insights
-
----
-
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -108,5 +100,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.gif" width="100%">
 </p>
-
-<p align="center">💖 Thank you for visiting my profile!</p>
