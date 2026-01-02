@@ -1,5 +1,10 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi%20there-👋-FF69B4?style=for-the-badge&logo=github" />
+</p>
+
 <!-- Header -->
-<h1 align="center">✨ Hii, I'm Dhanashri shete 👩‍💻✨</h1>
+<h1 align="center">✨ Hii, I'm Dhanashri Shete 👩‍💻✨</h1>
 <h3 align="center">🚀 Data Scientist | Python Developer | Dashboard Creator</h3>
 
 <p align="center">
@@ -9,12 +14,12 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Working on Diabetes Detection Web Project
-- 📊 Creating beautiful Power BI & Tableau Dashboards
-- 🐍 Strong in Python & SQL
-- 🧠 Passionate about Machine Learning & Data Visualization
-- 🌱 Learning Advanced Python | SQL Joins | Analytics
-- 💬 Ask me about SQL, Python, ML, Data Science
+- 🔭 Working on **Diabetes Detection Web Project**
+- 📊 Creating interactive **Power BI & Tableau Dashboards**
+- 🐍 Strong in **Python & SQL**
+- 🧠 Passionate about **Machine Learning & Data Visualization**
+- 🌱 Learning **Advanced Python | SQL Joins | Analytics**
+- 💬 Ask me about **SQL, Python, ML, Data Science**
 
 ---
 
@@ -31,54 +36,52 @@
 ---
 
 ## 💼 Projects
+
 ### 🌐 Tourism Management System
- ✔ Clean UI  
+✔ Clean UI  
 ✔ Python + HTML + CSS  
 ✔ Accurate predictions  
 
-### 🌐Movie Data Analysis & Visualization using Python
-✔ Data cleaning   
-✔ Exploratory Data Analysis (EDA)    
-✔ Data visualization    
-✔ Insights extracted from real metrics (IMDb, Rotten Tomatoes, Revenues)    
-✔ Statistical correlation    
+### 🎬 Movie Data Analysis & Visualization using Python
+✔ Data cleaning  
+✔ Exploratory Data Analysis (EDA)  
+✔ Data visualization  
+✔ Insights from IMDb, Rotten Tomatoes & Revenue  
+✔ Statistical correlation  
 
-### 🌐SQL EDA Project — Classic Models Database
-✔ SQL Queries   
-✔ EDA Notes   
-✔ Business Insights   
-✔ Stored Procedures   
+### 🗄 SQL EDA Project — Classic Models Database
+✔ Advanced SQL Queries  
+✔ EDA Notes  
+✔ Business Insights  
+✔ Stored Procedures  
 
-### 📊 Dashboard Projects
-🏥 Hospital Visits Performance Dashboard | Power BI
+---
 
-✔ KPIs for revenue, patients, and visits    
-✔ Department-wise and diagnosis-based analysis      
-✔ Monthly and yearly trend analysis      
-✔ Gender and demographic insights      
+## 📊 Dashboard Projects
 
-🎵 Spotify Music Analytics Dashboard | Power BI      
+### 🏥 Hospital Visits Performance Dashboard | Power BI
+✔ Revenue, patient & visit KPIs  
+✔ Department & diagnosis analysis  
+✔ Monthly & yearly trends  
+✔ Gender & demographic insights  
 
-✔ Artist, song, and album-level analysis      
-✔ Popularity trends by month, year, and quarter      
-✔ Explicit vs non-explicit song insights      
-✔ Interactive filters with Spotify-inspired UI      
+### 🎵 Spotify Music Analytics Dashboard | Power BI
+✔ Artist, song & album analysis  
+✔ Popularity trends (month/quarter/year)  
+✔ Explicit vs non-explicit insights  
+✔ Spotify-inspired interactive UI  
 
-📊 Sales & Order Performance Dashboard | Tableau      
-
-✔ Sales, orders, returns, and customer KPIs          
-✔ Profitability metrics (GPM, OPM, ROA, ROE)      
-✔ Segment-wise performance analysis      
-✔ Cost breakdown and trend insights      
+### 📈 Sales & Order Performance Dashboard | Tableau
+✔ Sales, orders & customer KPIs  
+✔ Profitability metrics (GPM, OPM, ROA, ROE)  
+✔ Segment-wise analysis  
+✔ Cost & trend insights  
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <!-- Working GitHub Stats -->
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Dhanashri0616&show_icons=true&theme=radical&cache_seconds=7200" width="48%">
-  
-  <!-- Working Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=Dhanashri0616&theme=radical" width="48%">
 </p>
 
@@ -86,10 +89,9 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhanashri-shete-aa7186354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="https://www.linkedin.com/in/dhanashri-shete-aa7186354" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
   <a href="https://github.com/Dhanashri0616" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
   </a>
@@ -100,3 +102,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.gif" width="100%">
 </p>
+
+<p align="center">💖 Thank you for visiting my profile!</p>
