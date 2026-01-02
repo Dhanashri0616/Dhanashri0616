@@ -13,11 +13,11 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on a **Diabetes Detection Web Project (Machine Learning-based)**
-- 📊 Designing insightful **Power BI & Tableau Dashboards**
+- 🔭 Working on a **Diabetes Detection Web Project (Machine Learning-based)**
+- 📊 Creating insightful **Power BI & Tableau Dashboards**
 - 🐍 Strong foundation in **Python & SQL**
 - 🧠 Passionate about **Machine Learning, Analytics & Data Visualization**
-- 🌱 Learning **Advanced Python, SQL Joins & Business Analytics**
+- 🌱 Learning **Advanced Python | SQL Joins | Business Analytics**
 - 💬 Ask me about **SQL, Python, Data Analysis & ML basics**
 
 ---
@@ -37,9 +37,9 @@
 ## 💼 Projects
 
 ### 🌐 Tourism Management System
-- Developed using **Python, HTML & CSS**
-- Clean and user-friendly UI
-- Implemented predictive logic for better decision-making
+- Built using **Python, HTML & CSS**
+- Clean and responsive UI
+- Predictive logic for better decision-making
 
 ### 🎬 Movie Data Analysis & Visualization (Python)
 - Data cleaning and preprocessing
@@ -49,7 +49,7 @@
 - Statistical correlation analysis
 
 ### 🗄 SQL EDA Project — Classic Models Database
-- Complex SQL queries for deep analysis
+- Complex SQL queries
 - Business-focused insights
 - Stored procedures for automation and reporting
 
@@ -58,15 +58,15 @@
 ## 📊 Dashboard Projects
 
 ### 🏥 Hospital Visits Performance Dashboard | Power BI
-- KPIs for revenue, patients & visits
+- Revenue, patient & visit KPIs
 - Department-wise and diagnosis-based analysis
-- Monthly and yearly trend analysis
+- Monthly and yearly trends
 - Gender and demographic insights
 
 ### 🎵 Spotify Music Analytics Dashboard | Power BI
-- Artist, song and album-level analysis
+- Artist, song & album-level analysis
 - Popularity trends by month, quarter & year
-- Explicit vs non-explicit song insights
+- Explicit vs non-explicit insights
 - Interactive filters with a Spotify-inspired UI
 
 ### 📈 Sales & Order Performance Dashboard | Tableau
