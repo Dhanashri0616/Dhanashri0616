@@ -76,10 +76,17 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanashri0616&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Dhanashri0616&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Dhanashri0616&theme=radical"
+    alt="GitHub Streak"
     width="48%"
   />
 </p>
+
 
 ---
 
