@@ -77,6 +77,7 @@
 
 ---
 
+
 ## 📈 GitHub Stats
 <p align="center">
   <!-- Working GitHub Stats -->
@@ -86,14 +87,14 @@
   <img src="https://streak-stats.demolab.com/?user=Dhanashri0616&theme=radical" width="48%">
 </p>
 
-
 ---
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhanashri-shete-aa7186354" target="_blank">
+  <a href="https://www.linkedin.com/in/dhanashri-shete-aa7186354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="https://github.com/Dhanashri0616" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
   </a>
