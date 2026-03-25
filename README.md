@@ -49,6 +49,16 @@
 ✔ Business Insights   
 ✔ Stored Procedures   
 
+### 🌐🎥 Netflix Movie Data Analysis & Visualization using Python 
+
+✔️ Data cleaning & preprocessing      
+✔️ Feature engineering (Vote categorization & Genre transformation)      
+✔️ Exploratory Data Analysis (EDA)      
+✔️ Genre distribution & trend analysis      
+✔️ Popularity and vote-based insights      
+✔️ Visualization using Seaborn & Matplotlib      
+✔️ Business insights from movie trends      
+
 ### 📊 Dashboard Projects
 🏥 Hospital Visits Performance Dashboard | Power BI
 
