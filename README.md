@@ -59,6 +59,14 @@
 ✔️ Visualization using Seaborn & Matplotlib      
 ✔️ Business insights from movie trends      
 
+### 🌐🍽️ Restaurant Review Analysis (NLP Project)    
+✔ Text preprocessing         
+✔ Sentiment analysis (Positive / Negative)       
+✔ CountVectorizer / Bag of Words      
+✔ Machine Learning model training       
+✔ Accuracy evaluation      
+✔ Customer feedback insights      
+
 ### 📊 Dashboard Projects
 🏥 Hospital Visits Performance Dashboard | Power BI
 
